@@ -1,0 +1,60 @@
+output{
+    border: 1px solid black;
+}
+img{
+    height: 200px;
+}
+.logo{
+  height: 100px;
+}
+#logotag{
+  font-size: 25px;
+}
+label[for=m]{
+    margin-left: 50px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .lim {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: #2a9de0;
+  }
+  #alignment{
+    float: right;
+  }
+  #marge{
+    margin-left: 25px;
+    font-size: 25px;
+  }
+  .butde{
+    width: 150px;
+    height: 50px;
+    margin-left: 40px;
+    border-radius: 20px;
+    color: aliceblue;
+    font-weight: 100;
+    background-color: #333;
+    font-size: 20px;
+  
+  }

@@ -1,0 +1,56 @@
+.adjust{
+    width: 800px;
+    height: 500px;
+    border: 3px solid black;
+    padding: 60px;
+    margin: 20px;
+}
+th{
+    border: 1px solid rgb(142, 235, 235);
+    box-sizing: 250px;
+    font-size: 25px;
+    color: antiquewhite;
+    background-color: green;
+    border-style:double;
+}
+td{
+    font-size: 25px;
+    text-align: center;
+    border: 1px solid rgb(159, 194, 233);
+    font-weight: bold;
+    box-sizing: 250px;
+    border-style:double;
+    color: antiquewhite;
+}
+table{
+    padding: 10px 10px 10px 10px;
+    box-sizing: 250px;
+    width: 100%;
+}
+label{
+    margin: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    color: blanchedalmond;
+}
+input{
+    margin: 20px 20px 20px 20px;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 25px;
+}
+body{
+    background-image: url(back2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.formbox{
+    border: 2px solid black;
+    width: 1500px;
+    margin-left: 230px;
+    padding: 10px 10px 300px 10px; 
+    font-size: 30px ;
+}
+output{
+    color: aliceblue;
+}
